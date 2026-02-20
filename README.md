@@ -1,1 +1,101 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=150&section=header&text=Rajib%20Hasan%20Shawon&fontSize=50&fontAlignY=33&desc=Software%20Engineer%20%7C%20Project%20Manager%20%7C%20Full-Stack%20Architect&descAlignY=55&descSize=15&animation=twinkling" width="100%" /> </div> <div align="center"> <h3>Engineering High-Performance Distributed Systems & Digital Infrastructure</h3> </div> <br /> <div align="center"> <!-- Clean, minimalist social/contact links --> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=10B981" /></a> <a href="#"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=10B981" /></a> <a href="#"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=minutemailer&logoColor=10B981" /></a> </div> <br /> ## 🔭 Executive Overview I am a Technical Project Manager and Full-Stack Software Engineer focused on designing high-availability APIs, cross-platform applications, and resilient cloud architectures. I specialize in bridging the gap between complex business requirements and robust enterprise-grade software that operates efficiently at scale. My work spans across modern web, robust backend microservices, and mobile application ecosystems, ensuring data integrity and zero-downtime deployments. --- ## 🏗️ Core Engineering Stack I select technologies based on scalability, concurrency models, and ecosystem maturity. <table> <tr> <td width="33%"> <h3>Backend & Systems</h3> <ul> <li><b>Node.js & NestJS</b> (Microservices architecture)</li> <li><b>PHP Laravel</b> (Enterprise MVC frameworks)</li> <li><b>Python</b> (Scripting & Automation)</li> <li><b>TypeScript</b> (Strict type-safety)</li> </ul> </td> <td width="33%"> <h3>Frontend & Mobile</h3> <ul> <li><b>React.js</b> (Component-driven UI)</li> <li><b>React Native</b> (Cross-platform mobile)</li> <li><b>Flutter</b> (High-performance hybrid apps)</li> <li><b>WebSockets/Socket.io</b> (Real-time syncing)</li> </ul> </td> <td width="33%"> <h3>Data & Infrastructure</h3> <ul> <li><b>PostgreSQL / MySQL</b> (Relational integrity)</li> <li><b>Redis</b> (In-memory caching)</li> <li><b>GitHub Actions</b> (Zero-downtime CI/CD)</li> <li><b>Linux Server Admin</b> (Nginx, PM2, SSH)</li> </ul> </td> </tr> </table> --- ## 🚀 Key Architectural Focus - **Project Management & Delivery:** Leading development lifecycles from architectural design to deployment, ensuring enterprise standards are met. - **Zero-Downtime Deployments:** Utilizing PM2 clustering, automated CI/CD pipelines, and artifact SCP transfers to ensure uninterrupted service over live connections. - **Cross-Platform Engineering:** Delivering seamless user experiences across web (React), iOS, and Android (Flutter/React Native) from shared backends. - **Security & RBAC:** Implementing strict, multi-layered Role-Based Access Control and API guards to secure sensitive endpoints. --- ## ⚡ Live Metrics <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rhsshawon&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&text_color=A3B3BC&icon_color=10B981&title_color=10B981" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhsshawon&layout=compact&theme=radium&hide_border=true&bg_color=0D1117&text_color=A3B3BC&title_color=10B981" width="48%" /> </div> <br /> --- <div align="center"> <i>"Quality is not an act, it is a habit."</i> — Aristotle </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=160&section=header&text=Rajib%20Hasan%20Shawon&fontSize=48&fontAlignY=35&desc=Software%20Engineer%20%7C%20Technical%20Project%20Manager%20%7C%20Systems%20Architect&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+</div>
+
+<div align="center">
+  <h3>Architecting Scalable Digital Infrastructure & High-Performance Systems</h3>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=ffffff" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=ffffff" /></a>
+</div>
+
+<br />
+
+---
+
+## Executive Profile
+
+I design and deliver production-grade systems engineered for reliability, scalability, and long-term maintainability. My expertise spans distributed backend architectures, cross-platform applications, and cloud-based infrastructure optimized for performance and uptime.
+
+I operate at the intersection of technical leadership and deep engineering execution — transforming complex requirements into resilient enterprise software.
+
+---
+
+## Core Engineering Stack
+
+<table>
+<tr>
+<td width="33%">
+
+### Backend & Architecture
+- **Node.js** (Scalable Services)
+- **NestJS** (Modular Enterprise APIs)
+- **TypeScript** (Strict Type Systems)
+- **Laravel** (Robust MVC Platforms)
+- **Python** (Automation & Tooling)
+
+</td>
+<td width="33%">
+
+### Frontend & Applications
+- **React.js** (Scalable UI Systems)
+- **React Native** (Cross-Platform Apps)
+- **Flutter** (High-Performance Mobile)
+- **WebSockets / Socket.io** (Real-Time Systems)
+
+</td>
+<td width="33%">
+
+### Data & Infrastructure
+- **PostgreSQL / MySQL** (Relational Systems)
+- **Redis** (Caching & Pub/Sub)
+- **Linux Server Administration**
+- **Nginx & PM2 Process Management**
+- **CI/CD Automation Pipelines**
+
+</td>
+</tr>
+</table>
+
+---
+
+## Architectural Principles
+
+- **Scalability First:** Systems designed to handle growth without architectural rewrites.
+- **Zero-Downtime Deployment:** Cluster-based production strategy with controlled rollouts.
+- **Security by Design:** Layered RBAC, validation pipelines, and endpoint protection.
+- **Performance Optimization:** Query tuning, indexing strategy, and caching layers.
+- **Engineering Governance:** Structured delivery cycles from architecture to production.
+
+---
+
+## Areas of Expertise
+
+- Distributed Systems Design  
+- High-Availability API Development  
+- Microservices Architecture  
+- Real-Time Communication Platforms  
+- Infrastructure Optimization  
+- Database Performance Tuning  
+- Deployment Automation  
+- Technical Project Leadership  
+
+---
+
+## Live Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rhsshawon&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhsshawon&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <i>Precision in architecture. Discipline in execution. Reliability in production.</i>
+</div>
