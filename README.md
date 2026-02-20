@@ -163,26 +163,16 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rhsshawon&theme=onestar&no-frame=true&row=1&column=7&margin-w=6&margin-h=0&v=1" width="100%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=rhsshawon&show_icons=true&theme=github_dark&hide_border=true&title_color=64ffda&icon_color=64ffda&bg_color=0d1117&text_color=c9d1d9&ring_color=64ffda&card_width=450&v=1" width="47%" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhsshawon&layout=compact&theme=github_dark&hide_border=true&title_color=64ffda&bg_color=0d1117&text_color=c9d1d9&card_width=400&v=1" width="47%" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=rhsshawon&theme=github-dark-blue&hide_border=true&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=64ffda&dates=8b949e&card_width=600&v=1" width="68%" />
+| 📦 Repositories | 🌟 Total Stars | 👥 Network |
+|:---:|:---:|:---:|
+| ![Repos](https://img.shields.io/github/repos/rhsshawon?style=for-the-badge&color=64ffda&labelColor=0d1117&logo=github) | ![Stars](https://img.shields.io/github/stars/rhsshawon?style=for-the-badge&color=64ffda&labelColor=0d1117&logo=github) | ![Followers](https://img.shields.io/github/followers/rhsshawon?style=for-the-badge&color=64ffda&labelColor=0d1117&logo=github) |
 
 </div>
 
----
-
-## ◈ Contribution Activity
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhsshawon&theme=react-dark&hide_border=true&color=64ffda&line=64ffda&point=ffffff&area=true&area_color=64ffda&v=1" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhsshawon&theme=react-dark&hide_border=true&color=64ffda&line=64ffda&point=ffffff&area=true&area_color=64ffda&v=2" width="98%" />
 </div>
 
 ---
