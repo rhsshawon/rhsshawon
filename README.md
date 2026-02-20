@@ -27,7 +27,16 @@
 ## ◈ Executive Profile
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=99999&pause=99999&color=64FFDA&center=true&vCenter=true&multiline=true&repeat=false&width=780&height=160&lines=SOFTWARE+ENGINEER+·+DISTRIBUTED+SYSTEMS+ARCHITECT+·+TECHNICAL+PM;+;I+design+%26+lead+development+of+resilient+distributed+systems;built+for+scale%2C+performance%2C+and+operational+reliability.;+;Expertise+spans+backend+microservices%2C+real-time+platforms%2C;cross-platform+mobile+%26+optimized+infrastructure+environments." alt="Profile" />
+  <h3>SOFTWARE ENGINEER · DISTRIBUTED SYSTEMS ARCHITECT · TECHNICAL PM</h3>
+  <br/>
+  <p>
+    I design & lead development of resilient distributed systems <br/>
+    built for scale, performance, and operational reliability.
+  </p>
+  <p>
+    Expertise spans backend microservices, real-time platforms, <br/>
+    cross-platform mobile & optimized infrastructure environments.
+  </p>
 </div>
 
 ---
@@ -154,17 +163,17 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rhsshawon&theme=onestar&no-frame=true&row=1&column=7&margin-w=6&margin-h=0" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=rhsshawon&theme=onestar&no-frame=true&row=1&column=7&margin-w=6&margin-h=0&v=1" width="100%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rhsshawon&show_icons=true&theme=github_dark&hide_border=true&title_color=64ffda&icon_color=64ffda&bg_color=0d1117&text_color=c9d1d9&ring_color=64ffda&card_width=450" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rhsshawon&show_icons=true&theme=github_dark&hide_border=true&title_color=64ffda&icon_color=64ffda&bg_color=0d1117&text_color=c9d1d9&ring_color=64ffda&card_width=450&v=1" width="47%" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhsshawon&layout=compact&theme=github_dark&hide_border=true&title_color=64ffda&bg_color=0d1117&text_color=c9d1d9&card_width=400" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhsshawon&layout=compact&theme=github_dark&hide_border=true&title_color=64ffda&bg_color=0d1117&text_color=c9d1d9&card_width=400&v=1" width="47%" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=rhsshawon&theme=github-dark-blue&hide_border=true&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=64ffda&dates=8b949e&card_width=600" width="68%" />
+<img src="https://streak-stats.demolab.com?user=rhsshawon&theme=github-dark-blue&hide_border=true&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=64ffda&dates=8b949e&card_width=600&v=1" width="68%" />
 
 </div>
 
@@ -173,7 +182,7 @@
 ## ◈ Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhsshawon&theme=react-dark&hide_border=true&color=64ffda&line=64ffda&point=ffffff&area=true&area_color=64ffda" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhsshawon&theme=react-dark&hide_border=true&color=64ffda&line=64ffda&point=ffffff&area=true&area_color=64ffda&v=1" width="98%" />
 </div>
 
 ---
